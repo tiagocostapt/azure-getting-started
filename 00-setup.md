@@ -4,3 +4,4 @@ Thanks for joining to our Live Online Training - [Getting Started with Azure](ht
 
 ## How to get an Azure Subscription?
 If you don't have yet an Azure Subscription you can get one by signing to a Free Trial at https://azure.microsoft.com/en-us/free
+You will not need and Auzre Subscription to follow our tutorial, but it can be usefull to practice the demos after our class.
