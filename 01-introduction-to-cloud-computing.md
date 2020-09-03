@@ -3,5 +3,4 @@
 
 
 Important Links:
-
-[Demo](https://docs.microsoft.com/en-us/azure/active-directory-domain-services/concepts-replica-sets?WT.mc_id=AZ-MVP-5001832).
+* [Demo](https://docs.microsoft.com/en-us/azure/active-directory-domain-services/concepts-replica-sets?WT.mc_id=AZ-MVP-5001832).
