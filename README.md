@@ -1,5 +1,8 @@
 # Azure Getting Started
 
+## Setup
+* [Setup Guide](00-setup.md)
+
 ## Day 01
 * [Introduction to Cloud Computing](01-introduction-to-cloud-computing.md)
 * [Working with the Azure Platform](02-working-with-the-azure-platform.md)
