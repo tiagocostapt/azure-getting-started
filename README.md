@@ -14,9 +14,9 @@
 * [Azure Compute](08-azure-compute.md)
 
 ## Day 02
-* Azure App Service
-* Azure SQL Databases
-* Azure Security
-* Azure Infrastructure as code (ARM Templates)
-* Azure Governance
-* Cost Management
+* [Azure App Service](09-azure-app-service.md)
+* [Azure SQL Databases](10-azure-sql-databases.md)
+* [Azure Security](11-azure-security.md)
+* [Azure Infrastructure as code (ARM Templates)](12-azure-arm-templates.md)
+* [Azure Governance](13-azure-governance.md)
+* [Cost Management](14-cost-management.md)

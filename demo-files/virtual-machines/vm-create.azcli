@@ -1,0 +1,15 @@
+#This demo creates a new Windows Virtual Machine
+az login
+
+az group create --name az-training-clivm --location eastus
+
+az vm create --resource-group az-training-clivm --name TutorialVM1 --image UbuntuLTS --generate-ssh-keys --output json --verbose
+
+
+#Confirm that the VM is running by connecting over SSH.
+ssh <PUBLIC_IP_ADDRESS>
+
+#Get information about the VM
+az vm show --name TutorialVM1 --resource-group az-training-clivm
+
+
